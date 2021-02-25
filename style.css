@@ -138,7 +138,7 @@ header #titulo-artigo , #hard-skills h3 { font-family: Courier New, Courier, mon
   max-width: 80%;
 }
 
-article p , #licoes_aprendidas , #licoes_a_aprender { font-family: Raleway, sans-serif;
+article , #licoes_aprendidas , #licoes_a_aprender { font-family: Raleway, sans-serif;
 }
 
 .icones { border-radius: 100%;
