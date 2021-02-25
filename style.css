@@ -90,6 +90,7 @@ article a:hover {  color: green;
   margin-left: 20px;
   top: 0;
   border-radius: 100%;
+  width: 8%;
 }
 
 #rodape { background-color: rgb(220, 225, 222);
